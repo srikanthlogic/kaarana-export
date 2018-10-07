@@ -3,4 +3,4 @@
   publish = "dist"
 
 [template.environment]
-  MEDIUM_FEED = "The URL of the Medium feed to pull in"
+  MEDIUM_FEED = "https://medium.com/feed/karana"
